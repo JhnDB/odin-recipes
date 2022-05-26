@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    background-color: #2727f0;
+    color: white;
+    text-align: center;
+}
+h2 {
+    background-color: aqua;
+    text-align: center;
+}
+li {
+    font-size: 20px;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
